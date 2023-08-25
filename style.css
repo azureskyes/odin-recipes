@@ -1,0 +1,26 @@
+/* index.html */
+.header {
+    font-weight: bold;
+    background-color: rgba(49, 49, 49, 0.5);
+    text-align: center;
+}
+
+* {
+    background-color: rgb(29, 29, 31);
+    color: white;
+}
+
+.recipe-links {
+    font-weight: bold;
+    text-align: center;
+}
+
+/* links */
+.headrecipe {
+    text-align: center;
+    background-color: rgba(49, 49, 49, 0.5);
+}
+
+.recipesource, .img, .rec-source, .rec-desc {
+    text-align: center;
+}
